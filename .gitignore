@@ -3,7 +3,6 @@ doc/static/skulpt-stdlib.js
 doc/static/skulpt.min.js
 doc/static/dist/*
 vendor/
-dist/*
 
 *.pyc
 .DS_Store
